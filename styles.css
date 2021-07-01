@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+.header{
+    background-color: rgb(66, 25, 214);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 150px;
+    padding: 0;
+    margin-top: 0px;
+    width: 100%;
+}
+.header img {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 3px;
+    float: left;
+}
+.header h2 {
+    font-size: 30;
+    color: rgb(161, 18, 228);
+    margin-left: 10px;
+    margin-bottom: -39px;
+}
+
+.header h4{
+    font-size: 30;
+    color: rgb(161, 18, 228);
+    margin-left: 10px;
+}
+
+
+.footer h3{
+    font-size: 15;
+    color: rgb(0, 26, 255);
+    margin-left: 560px;
+    margin-top: 490px;
+}
